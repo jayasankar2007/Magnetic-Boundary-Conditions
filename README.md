@@ -221,7 +221,7 @@ For an **ideal (perfect) conductor**:
 
 This is especially important in **high-frequency** (RF and microwave) problems, where conductors are often approximated as perfect and currents are confined to a thin surface layer (skin effect).
 
-<img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/3fc3f9f2-d846-4fde-b1cb-08855124163d" />
+<img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/3fc3f9f2-d846-4fde-b1cb-08855124163d" />
 
 
 ---
