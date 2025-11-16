@@ -85,6 +85,7 @@ This means that the normal component of B is the same on both sides of the bound
 B_n2 = B_n1  
 
 So, the normal component of the magnetic flux density B is **continuous** across the interface between two media (there are no magnetic monopoles).
+
 <img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/df6400e6-1c78-477f-a6c7-7bd83671a243" />
 
 ---
@@ -173,6 +174,9 @@ At the interface between medium 1 and medium 2, with unit normal n-hat pointing 
 
 These conditions are crucial in analyzing and designing **magnetic cores**, **shielding**, **motors**, **transformers**, and **waveguides**.
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a3d33984-e6b7-4c8f-ba83-a2672aadac3c" />
+
+
 ---
 
 ### 5. **Applications**
@@ -191,6 +195,8 @@ These conditions are crucial in analyzing and designing **magnetic cores**, **sh
 
 - **Numerical EM Methods (FEM, FDTD)**
   - Correct implementation of boundary conditions is essential for accurate simulation of magnetic and electromagnetic problems.
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9839f61f-ebe3-48cc-b7fc-e6c6b473eead" />
 
 ---
 
@@ -214,6 +220,9 @@ For an **ideal (perfect) conductor**:
     (n̂ × H_outside = K)
 
 This is especially important in **high-frequency** (RF and microwave) problems, where conductors are often approximated as perfect and currents are confined to a thin surface layer (skin effect).
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3fc3f9f2-d846-4fde-b1cb-08855124163d" />
+
 
 ---
 
