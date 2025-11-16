@@ -174,7 +174,7 @@ At the interface between medium 1 and medium 2, with unit normal n-hat pointing 
 
 These conditions are crucial in analyzing and designing **magnetic cores**, **shielding**, **motors**, **transformers**, and **waveguides**.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a3d33984-e6b7-4c8f-ba83-a2672aadac3c" />
+<img width="576" height="576" alt="image" src="https://github.com/user-attachments/assets/a3d33984-e6b7-4c8f-ba83-a2672aadac3c" />
 
 
 ---
@@ -196,7 +196,7 @@ These conditions are crucial in analyzing and designing **magnetic cores**, **sh
 - **Numerical EM Methods (FEM, FDTD)**
   - Correct implementation of boundary conditions is essential for accurate simulation of magnetic and electromagnetic problems.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9839f61f-ebe3-48cc-b7fc-e6c6b473eead" />
+<img width="576" height="576" alt="image" src="https://github.com/user-attachments/assets/9839f61f-ebe3-48cc-b7fc-e6c6b473eead" />
 
 ---
 
@@ -221,7 +221,7 @@ For an **ideal (perfect) conductor**:
 
 This is especially important in **high-frequency** (RF and microwave) problems, where conductors are often approximated as perfect and currents are confined to a thin surface layer (skin effect).
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3fc3f9f2-d846-4fde-b1cb-08855124163d" />
+<img width="576" height="576" alt="image" src="https://github.com/user-attachments/assets/3fc3f9f2-d846-4fde-b1cb-08855124163d" />
 
 
 ---
